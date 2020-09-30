@@ -1,2 +1,2 @@
-# Bugweisrs
+# Bugweisers
 Hackathon
